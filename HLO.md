@@ -25,7 +25,7 @@
 <table>
     <tr style="color: white">
         <th rowspan="3">Продукт</th>
-        <th colspan="5">Оценки по критериям (5-бялльная шкала)</th>
+        <th colspan="5">Оценки по критериям (5-балльная шкала)</th>
     </tr>
     <tr>
         <th rowspan="2">Архитектура</th>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td><i>ВКонтакте</i></td>
-        <td2</td>
+        <td>2</td>
         <td>3</td>
         <td>1</td>
         <td>1</td>
