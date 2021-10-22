@@ -23,20 +23,16 @@
 В данный момент перечисленные вопросы решаются через соцсети (общение и продажа) или авито (продажа). Нацеленных конкретно на студентов-общажников приложений я найти не сумел. [Запрос в Яндекс](https://yandex.ru/search/?text=приложение+для+общежития&clid=2271258&win=453&&lr=2) отдаёт приложения для управления общежтием, инструменты для коменданта, но не для жильцов.
 
 <table>
-    <colgroup>
-    <col style="background-color: white">
-    <col style="background-color: white">
-    </colgroup>
-    <tr>
+    <tr style="background-color: white">
         <th rowspan="3">Продукт</th>
         <th colspan="5">Оценки по критериям</th>
     </tr>
-    <tr>
+    <tr style="background-color: white">
         <th rowspan="2">Архитектура</th>
         <th colspan="2">Функциональность</b></th>
         <th colspan="2">Интерфейс</th>
     </tr>
-    <tr>
+    <tr style="background-color: white">
         <th>Общение</th>
         <th>Обмен продуктами</th>
         <th>Наличие специальных элементов, заточенных под цель проекта</th>
