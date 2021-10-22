@@ -64,6 +64,8 @@
         <td>4</td>
     </tr>
 </table>
+  
+Обосную приведённые оценки:  
 
 <table>
     <tr style="color: white">
