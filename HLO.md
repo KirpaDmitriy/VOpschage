@@ -24,7 +24,7 @@
 
 <table>
     <tr>
-        <td colspan="3"><b>Критерии</b></td>
+        <td colspan="4"><b>Критерии</b></td>
         <td rowspan="3"><b>Продукт</b></td>
     </tr>
     <tr>
