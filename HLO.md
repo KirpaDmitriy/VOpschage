@@ -24,19 +24,19 @@
 
 <table>
     <tr style="color: white">
-        <th rowspan="3" style="background-color: white">Продукт</th>
-        <th colspan="5" style="background-color: white">Оценки по критериям</th>
+        <th rowspan="3">Продукт</th>
+        <th colspan="5">Оценки по критериям</th>
     </tr>
     <tr>
-        <th rowspan="2" style="color: white">Архитектура</th>
-        <th colspan="2" style="color: white">Функциональность</b></th>
-        <th colspan="2" style="color: white">Интерфейс</th>
+        <th rowspan="2">Архитектура</th>
+        <th colspan="2">Функциональность</b></th>
+        <th colspan="2">Интерфейс</th>
     </tr>
     <tr>
-        <th style="color: white">Общение</th>
-        <th style="color: white">Обмен продуктами</th>
-        <th style="color: white">Наличие специальных элементов, заточенных под цель проекта</th>
-        <th style="color: white">Удобство</th>
+        <th>Общение</th>
+        <th>Обмен продуктами</th>
+        <th>Наличие специальных элементов, заточенных под цель проекта</th>
+        <th>Удобство</th>
     </tr>
     <tr>
         <td><i>ВКонтакте</i></td>
