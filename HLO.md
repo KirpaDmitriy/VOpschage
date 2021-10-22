@@ -23,20 +23,20 @@
 В данный момент перечисленные вопросы решаются через соцсети (общение и продажа) или авито (продажа). Нацеленных конкретно на студентов-общажников приложений я найти не сумел. [Запрос в Яндекс](https://yandex.ru/search/?text=приложение+для+общежития&clid=2271258&win=453&&lr=2) отдаёт приложения для управления общежтием, инструменты для коменданта, но не для жильцов.
 
 <table>
-    <tr>
+    <tr style="color: white">
         <th rowspan="3" style="background-color: white">Продукт</th>
         <th colspan="5" style="background-color: white">Оценки по критериям</th>
     </tr>
     <tr>
-        <th rowspan="2" style="background-color: white">Архитектура</th>
-        <th colspan="2" style="background-color: white">Функциональность</b></th>
-        <th colspan="2" style="background-color: white">Интерфейс</th>
+        <th rowspan="2" style="color: white">Архитектура</th>
+        <th colspan="2" style="color: white">Функциональность</b></th>
+        <th colspan="2" style="color: white">Интерфейс</th>
     </tr>
     <tr>
-        <th style="background-color: white">Общение</th>
-        <th style="background-color: white">Обмен продуктами</th>
-        <th style="background-color: white">Наличие специальных элементов, заточенных под цель проекта</th>
-        <th style="background-color: white">Удобство</th>
+        <th style="color: white">Общение</th>
+        <th style="color: white">Обмен продуктами</th>
+        <th style="color: white">Наличие специальных элементов, заточенных под цель проекта</th>
+        <th style="color: white">Удобство</th>
     </tr>
     <tr>
         <td><i>ВКонтакте</i></td>
