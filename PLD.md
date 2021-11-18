@@ -160,14 +160,17 @@
     </table>
   
 
-    <h2> :fire: Модель "сущность - связь"</h2>
-    ![bd](https://user-images.githubusercontent.com/80625335/142430903-121120dd-8c73-485d-ba1e-5166827508fe.png)
+<h2> :fire: Модель "сущность - связь"</h2>
 
 
-  
+![bd](https://user-images.githubusercontent.com/80625335/142430903-121120dd-8c73-485d-ba1e-5166827508fe.png)
 
-    <h2> :fire: Логическая модель</h2>
-    ![dbr](https://user-images.githubusercontent.com/80625335/142435659-afac2460-f4db-4026-8cdb-c7002f776c5c.png)
+
+
+<h2> :fire: Логическая модель</h2>
+
+
+![dbr](https://user-images.githubusercontent.com/80625335/142435659-afac2460-f4db-4026-8cdb-c7002f776c5c.png)
 
 
 
