@@ -163,6 +163,12 @@
 <h2> :fire: Модель "сущность - связь"</h2>
 
 
+![bd](https://user-images.githubusercontent.com/80625335/142441022-d1aa1837-f396-464b-9a2a-4cc6e0496974.png)
+
+
+<h3>Вариант диаграммы для реляционной БД:</h3>
+
+
 ![bd](https://user-images.githubusercontent.com/80625335/142430903-121120dd-8c73-485d-ba1e-5166827508fe.png)
 
 
@@ -170,7 +176,8 @@
 <h2> :fire: Логическая модель</h2>
 
 
-![dbr](https://user-images.githubusercontent.com/80625335/142435659-afac2460-f4db-4026-8cdb-c7002f776c5c.png)
+![dbr1](https://user-images.githubusercontent.com/80625335/142440860-64502500-1bfe-40a4-a50c-fbe687cd4e53.png)
+
 
 
 
