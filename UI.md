@@ -107,11 +107,21 @@
     </li>
     <li>
         <h3><b>Админ</b></h3>
-        <img src="https://user-images.githubusercontent.com/80625335/144158406-e2ea4666-6856-4de3-bd21-d22cefe8b26c.png">
+        <table>
+            <tr>
+                <th>Изменение рейтинга</th>
+            </tr>
+            <tr><img src="https://user-images.githubusercontent.com/80625335/144158406-e2ea4666-6856-4de3-bd21-d22cefe8b26c.png"></tr>
+        </table>
     </li>
     <li>
         <h3><b>Суперадмин</b></h3>
         <table>
+            <tr>
+                <th>Изменение роли</th>
+                <th>Редактирование страницы общежития</th>
+                <th>Написание уведомления</th>
+            </tr>
             <tr>
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158439-cd030148-757d-48d7-90a9-6b9832677af4.png"></td>
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158454-807a4086-2739-46f5-b092-e3ab78cabae9.png"></td>
