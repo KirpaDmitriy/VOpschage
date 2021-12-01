@@ -79,6 +79,8 @@
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158150-ee1b3fb9-b249-463b-b6c5-90e7629e0a29.png"></td>
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158178-dc548286-3115-4008-a9e3-ade19c4a7fcd.png"></td>
             </tr>
+        </table>
+        <table>
             <tr>
                 <th>Сообщение от комнаты</th>
                 <th>Отзыв на комнату</th>
@@ -89,6 +91,8 @@
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158226-3ce4cd98-b889-428f-811a-db1e6cd78fb2.png"></td>
                 <td><img src="https://user-images.githubusercontent.com/80625335/144158275-6fd57883-95b6-4804-a117-b527f84a5160.png"></td>
             </tr>
+        </table>
+        <table>
             <tr>
                 <th>Редактирование профиля</th>
                 <th>Страница общежития</th>
