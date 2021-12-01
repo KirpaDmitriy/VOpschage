@@ -53,9 +53,11 @@
 <ul>
     <li>
         <h3><b>Неавторизованный пользователь</b></h3>
-        <img src="https://user-images.githubusercontent.com/80625335/144157689-f667c13f-df52-416b-807f-71d083b7dcfc.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144157851-e0381547-478e-47b5-8161-782e09c855e4.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158038-dc8e3494-3453-4db9-93a0-ee95cee120e3.png">
+        <div class="row">
+            <div class="column"><img src="https://user-images.githubusercontent.com/80625335/144157689-f667c13f-df52-416b-807f-71d083b7dcfc.png"></div>
+            <div class="column"><img src="https://user-images.githubusercontent.com/80625335/144157851-e0381547-478e-47b5-8161-782e09c855e4.png"></div>
+            <div class="column"><img src="https://user-images.githubusercontent.com/80625335/144158038-dc8e3494-3453-4db9-93a0-ee95cee120e3.png"></div>
+        </div>
     </li>
     <li>
         <h3><b>Авторизованный пользователь (АП)</b></h3>
