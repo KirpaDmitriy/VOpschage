@@ -53,7 +53,7 @@
 <ul>
     <li>
         <h3><b>Неавторизованный пользователь</b></h3>
-        ![main](https://user-images.githubusercontent.com/80625335/144157689-f667c13f-df52-416b-807f-71d083b7dcfc.png)
+        <img src="https://user-images.githubusercontent.com/80625335/144157689-f667c13f-df52-416b-807f-71d083b7dcfc.png">
     </li>
     <li>
         <h3><b>Авторизованный пользователь (АП)</b></h3>
