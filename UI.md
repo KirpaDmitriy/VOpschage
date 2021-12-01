@@ -63,15 +63,19 @@
     </li>
     <li>
         <h3><b>Авторизованный пользователь (АП)</b></h3>
-        <img src="https://user-images.githubusercontent.com/80625335/144158113-de567b09-257c-4356-a84a-05292d517045.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158150-ee1b3fb9-b249-463b-b6c5-90e7629e0a29.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158178-dc548286-3115-4008-a9e3-ade19c4a7fcd.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158184-542cc699-5374-476b-8ac2-bf8e84391ba2.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158226-3ce4cd98-b889-428f-811a-db1e6cd78fb2.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158275-6fd57883-95b6-4804-a117-b527f84a5160.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158303-536fdb14-f30a-44ef-bdee-222f593ef19a.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158337-511cde56-3163-4797-88ce-3dd40b025281.png">
-        <img src="https://user-images.githubusercontent.com/80625335/144158377-682c89a7-2e9a-4c3f-98e4-99d9852499a5.png">
+        <table>
+            <tr>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158113-de567b09-257c-4356-a84a-05292d517045.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158150-ee1b3fb9-b249-463b-b6c5-90e7629e0a29.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158178-dc548286-3115-4008-a9e3-ade19c4a7fcd.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158184-542cc699-5374-476b-8ac2-bf8e84391ba2.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158226-3ce4cd98-b889-428f-811a-db1e6cd78fb2.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158275-6fd57883-95b6-4804-a117-b527f84a5160.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158303-536fdb14-f30a-44ef-bdee-222f593ef19a.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158337-511cde56-3163-4797-88ce-3dd40b025281.png"></td>
+                <td><img src="https://user-images.githubusercontent.com/80625335/144158377-682c89a7-2e9a-4c3f-98e4-99d9852499a5.png"></td>
+            </tr>
+        </table>
     </li>
     <li>
         <h3><b>Админ</b></h3>
