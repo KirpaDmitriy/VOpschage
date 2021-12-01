@@ -111,7 +111,7 @@
             <tr>
                 <th>Изменение рейтинга</th>
             </tr>
-            <tr><img src="https://user-images.githubusercontent.com/80625335/144158406-e2ea4666-6856-4de3-bd21-d22cefe8b26c.png"></tr>
+            <tr><td><img src="https://user-images.githubusercontent.com/80625335/144158406-e2ea4666-6856-4de3-bd21-d22cefe8b26c.png"></td></tr>
         </table>
     </li>
     <li>
